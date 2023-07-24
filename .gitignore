@@ -1,0 +1,10 @@
+# Node.js and NPM
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
